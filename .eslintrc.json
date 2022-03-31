@@ -58,6 +58,14 @@
       "error",
       { "devDependencies": ["**/*.spec.ts"] }
     ]
+    // "@typescript-eslint/quotes": [
+    //   "error",
+    //   "single",
+    //   {
+    //     "avoidEscape": true,
+    //     "allowTemplateLiterals": true
+    //   }
+    // ],
   },
   "settings": {
     "import/resolver": {
